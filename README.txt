@@ -1,0 +1,3 @@
+Symbol Recognizer
+
+This is a Symbol recognizer built in java aimed to recognize mouse drawn patterns and categorize them. Recognizable symbols includes triangle, equilateral triangle, snowman, rectangle, triforce and deathly hallow. In order to test this, please open the Symbol_recognizer.jar and draw patterns onto it. Patterns within a certain designated threshold will be recognized and category printed on top. 
